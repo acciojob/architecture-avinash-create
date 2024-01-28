@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body
+{
+	width:1100px;
+}
+.firstColumn
+{
+	width:200px;
+}
+.secondColumn
+{
+	width:600px;
+}
+.thirdColumn
+{
+	width:200px;
+}
